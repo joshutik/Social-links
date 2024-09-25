@@ -68,6 +68,11 @@ li:hover {
     color: black;
 }
 
+li:focus {
+    background-color:hsl(75, 94%, 57%);
+    color: black;
+}
+
 footer{
     text-align: center;
     margin: 2rem 0;
